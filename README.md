@@ -1,1 +1,1 @@
-Análise dos dados referentes ao ano de 2020 de casos de covid-19
+Análise dos dados de número de casos de covid-19 referentes ao ano de 2020 utilizando python.
